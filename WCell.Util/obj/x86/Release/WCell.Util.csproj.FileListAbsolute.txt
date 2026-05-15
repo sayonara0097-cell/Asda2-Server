@@ -1,0 +1,7 @@
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\ReleaseX86\WCell.Util.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\ReleaseX86\WCell.Util.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\obj\x86\Release\WCell.Util.csproj.AssemblyReference.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\obj\x86\Release\WCell.Util.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\obj\x86\Release\WCell.Util.csproj.Up2Date
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\obj\x86\Release\WCell.Util.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\obj\x86\Release\WCell.Util.pdb

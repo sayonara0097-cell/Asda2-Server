@@ -1,0 +1,6 @@
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\ReleaseX86\WCell.Intercommunication.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\ReleaseX86\WCell.Intercommunication.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Intercommunication\obj\x86\Release\WCell.Intercommunication.csproj.AssemblyReference.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Intercommunication\obj\x86\Release\WCell.Intercommunication.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Intercommunication\obj\x86\Release\WCell.Intercommunication.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Intercommunication\obj\x86\Release\WCell.Intercommunication.pdb

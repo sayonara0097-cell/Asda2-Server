@@ -1,0 +1,11 @@
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\ReleaseX64\WCell.RealmServer.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\ReleaseX64\WCell.RealmServer.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\obj\x64\Release\WCell.RealmServer.csproj.AssemblyReference.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\obj\x64\Release\WCell.RealmServer.Res.WCell.RealmServer.resources
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\obj\x64\Release\WCell.RealmServer.csproj.GenerateResource.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\obj\x64\Release\WCell.RealmServer.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\obj\x64\Release\WCell.Re.102CC869.Up2Date
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\obj\x64\Release\WCell.RealmServer.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\obj\x64\Release\WCell.RealmServer.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\NotifyFixRelease\WCell.RealmServer.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\NotifyFixRelease\WCell.RealmServer.pdb

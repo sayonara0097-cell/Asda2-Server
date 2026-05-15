@@ -1,0 +1,138 @@
+(2026-05-15 23:01:56.4697) [Error] OnDBError MySql.Data.MySqlClient.MySqlException (0x80004005): Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO) ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Access denied for user 'root'@'localhost' (using password: NO)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NHibernate.Connection.DriverConnectionProvider.GetConnection()
+   at NHibernate.Tool.hbm2ddl.SuppliedConnectionProviderConnectionHelper.Prepare()
+   at NHibernate.Tool.hbm2ddl.SchemaMetadataUpdater.GetReservedWords(Dialect dialect, IConnectionHelper connectionHelper)
+   at NHibernate.Tool.hbm2ddl.SchemaMetadataUpdater.Update(ISessionFactory sessionFactory)
+   at NHibernate.Impl.SessionFactoryImpl..ctor(Configuration cfg, IMapping mapping, Settings settings, EventListeners listeners)
+   at NHibernate.Cfg.Configuration.BuildSessionFactory()
+   at Castle.ActiveRecord.Framework.SessionFactoryHolder.GetSessionFactory(Type type)
+   at Castle.ActiveRecord.Framework.SessionFactoryHolder.CreateSession(Type type)
+   at WCell.Core.Database.DatabaseUtil.get_Session() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Database\DatabaseUtil.cs:line 89
+   at WCell.Core.Database.DatabaseUtil.get_IsConnected() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Database\DatabaseUtil.cs:line 79
+   at WCell.Core.Database.DatabaseUtil.InitAR(Assembly asm) in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Database\DatabaseUtil.cs:line 183
+   at WCell.RealmServer.Database.RealmDBMgr.Initialize() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Database\RealmDBMgr.cs:line 41
+(2026-05-15 23:01:56.4697) [Error] Failed to initialize the Database. 
+(2026-05-15 23:01:56.5107) [Error] LogStacktrace at offset 89 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\NLog\LogUtil.cs:167:7
+	LogException at offset 193 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\NLog\LogUtil.cs:139:9
+	ErrorException at offset 131 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\NLog\LogUtil.cs:80:7
+	Initialize at offset 400 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Database\RealmDBMgr.cs:41:11
+	InitializeDefault at offset 44 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Content\ContentMgr.cs:153:7
+	EnsureInitialized at offset 67 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Content\ContentMgr.cs:140:7
+	GetMapper at offset 55 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Content\ContentMgr.cs:74:7
+	GetMapper<T> at offset 126 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Content\ContentMgr.cs:69:7
+	LoadOverrides at offset 50 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Spells\SpellHandler.cs:890:7
+	LoadSpells at offset 85 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Spells\SpellHandler.cs:850:9
+	LoadSpells at offset 32 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Spells\SpellHandler.cs:840:7
+	InvokeMethod at offset 0 in file:line:column <filename unknown>:0:0
+	UnsafeInvokeInternal at offset 118 in file:line:column <filename unknown>:0:0
+	Invoke at offset 182 in file:line:column <filename unknown>:0:0
+	Invoke at offset 34 in file:line:column <filename unknown>:0:0
+	Execute at offset 161 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Initialization\InitMgr.cs:255:9
+	Execute at offset 166 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Initialization\InitMgr.cs:233:9
+	PerformInitialization at offset 359 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Initialization\InitMgr.cs:219:11
+	Start at offset 176 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\ServerApp.cs:206:7
+	Start at offset 46 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\RealmServer.cs:132:7
+	Start at offset 68 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Program.cs:15:7
+	InvokeMethod at offset 0 in file:line:column <filename unknown>:0:0
+	UnsafeInvokeInternal at offset 118 in file:line:column <filename unknown>:0:0
+	Invoke at offset 182 in file:line:column <filename unknown>:0:0
+	InvokeMember at offset 897 in file:line:column <filename unknown>:0:0
+	InvokeMember at offset 55 in file:line:column <filename unknown>:0:0
+	Main at offset 2055 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServerConsole\Program.cs:123:11 
+(2026-05-15 23:01:56.5107) [Error]  
+(2026-05-15 23:01:56.5107) [Error] System.Xml.XmlException: Root element is missing.
+   at System.Xml.XmlTextReaderImpl.Throw(Exception e)
+   at System.Xml.XmlTextReaderImpl.ParseDocumentContent()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.Load(TextReader txtReader)
+   at Castle.ActiveRecord.Framework.Config.XmlConfigurationSource..ctor(TextReader reader)
+   at WCell.Core.Database.DatabaseUtil.InitAR(Assembly asm) in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Database\DatabaseUtil.cs:line 180
+   at WCell.RealmServer.Database.RealmDBMgr.Initialize() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Database\RealmDBMgr.cs:line 49 
+(2026-05-15 23:01:56.5107) [Error]  
+(2026-05-15 23:01:56.5107) [Error] Change the RealmName in the Config! - ACell RealmServer (v0.0.0.0)) - Debug 
+(2026-05-15 23:01:56.5107) [Error] OS: Microsoft Windows NT 6.2.9200.0 - CLR: 4.0.30319.42000 
+(2026-05-15 23:01:56.5107) [Error] Using: <not initialized> 
+(2026-05-15 23:01:56.5107) [Error]  
+(2026-05-15 23:01:56.5107) [Error] Root element is missing. 
+(2026-05-15 23:01:56.5448) [Error] Step 'Initialize Spells' (LoadSpells) failed to finish 
+(2026-05-15 23:01:56.5448) [Error] LogStacktrace at offset 89 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\NLog\LogUtil.cs:167:7
+	LogException at offset 193 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\NLog\LogUtil.cs:139:9
+	ErrorException at offset 131 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\NLog\LogUtil.cs:80:7
+	ErrorException at offset 59 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Util\NLog\LogUtil.cs:75:7
+	Execute at offset 161 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Initialization\InitMgr.cs:255:9
+	Execute at offset 166 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Initialization\InitMgr.cs:233:9
+	PerformInitialization at offset 359 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Initialization\InitMgr.cs:219:11
+	Start at offset 176 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\ServerApp.cs:206:7
+	Start at offset 46 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\RealmServer.cs:132:7
+	Start at offset 68 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Program.cs:15:7
+	InvokeMethod at offset 0 in file:line:column <filename unknown>:0:0
+	UnsafeInvokeInternal at offset 118 in file:line:column <filename unknown>:0:0
+	Invoke at offset 182 in file:line:column <filename unknown>:0:0
+	InvokeMember at offset 897 in file:line:column <filename unknown>:0:0
+	InvokeMember at offset 55 in file:line:column <filename unknown>:0:0
+	Main at offset 2055 in file:line:column C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServerConsole\Program.cs:123:11 
+(2026-05-15 23:01:56.5448) [Error]  
+(2026-05-15 23:01:56.5448) [Error] System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> Castle.ActiveRecord.Framework.ActiveRecordException: Could not create the schema ---> NHibernate.HibernateException: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO) ---> MySql.Data.MySqlClient.MySqlException: Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO) ---> MySql.Data.MySqlClient.MySqlException: Access denied for user 'root'@'localhost' (using password: NO)
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   --- End of inner exception stack trace ---
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.AuthenticationFailed(Exception ex)
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.ReadPacket()
+   at MySql.Data.MySqlClient.Authentication.MySqlAuthenticationPlugin.Authenticate(Boolean reset)
+   at MySql.Data.MySqlClient.NativeDriver.Open()
+   at MySql.Data.MySqlClient.Driver.Open()
+   at MySql.Data.MySqlClient.Driver.Create(MySqlConnectionStringBuilder settings)
+   at MySql.Data.MySqlClient.MySqlPool.GetPooledConnection()
+   at MySql.Data.MySqlClient.MySqlPool.TryToGetDriver()
+   at MySql.Data.MySqlClient.MySqlPool.GetConnection()
+   at MySql.Data.MySqlClient.MySqlConnection.Open()
+   at NHibernate.Connection.DriverConnectionProvider.GetConnection()
+   at NHibernate.Tool.hbm2ddl.SchemaExport.Execute(Action`1 scriptAction, Boolean export, Boolean justDrop)
+   --- End of inner exception stack trace ---
+   at NHibernate.Tool.hbm2ddl.SchemaExport.Execute(Action`1 scriptAction, Boolean export, Boolean justDrop)
+   at NHibernate.Tool.hbm2ddl.SchemaExport.Execute(Boolean script, Boolean export, Boolean justDrop)
+   at Castle.ActiveRecord.ActiveRecordStarter.CreateSchema()
+   --- End of inner exception stack trace ---
+   at Castle.ActiveRecord.ActiveRecordStarter.CreateSchema()
+   at WCell.Core.Database.DatabaseUtil.CreateSchema() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Database\DatabaseUtil.cs:line 195
+   at WCell.RealmServer.Database.RealmDBMgr.Initialize() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Database\RealmDBMgr.cs:line 69
+   at WCell.RealmServer.Content.ContentMgr.InitializeDefault() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Content\ContentMgr.cs:line 153
+   at WCell.RealmServer.Content.ContentMgr.EnsureInitialized() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Content\ContentMgr.cs:line 140
+   at WCell.RealmServer.Content.ContentMgr.GetMapper(Type t) in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Content\ContentMgr.cs:line 74
+   at WCell.RealmServer.Content.ContentMgr.GetMapper[T]() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Content\ContentMgr.cs:line 69
+   at WCell.RealmServer.Spells.SpellHandler.LoadOverrides() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Spells\SpellHandler.cs:line 890
+   at WCell.RealmServer.Spells.SpellHandler.LoadSpells(Boolean init) in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Spells\SpellHandler.cs:line 850
+   at WCell.RealmServer.Spells.SpellHandler.LoadSpells() in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServer\Spells\SpellHandler.cs:line 840
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at WCell.Core.Initialization.InitMgr.Execute(InitializationStep step) in C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\Initialization\InitMgr.cs:line 255 
+(2026-05-15 23:01:56.5448) [Error]  
+(2026-05-15 23:01:56.5448) [Error] Change the RealmName in the Config! - ACell RealmServer (v0.0.0.0)) - Debug 
+(2026-05-15 23:01:56.5448) [Error] OS: Microsoft Windows NT 6.2.9200.0 - CLR: 4.0.30319.42000 
+(2026-05-15 23:01:56.5448) [Error] Using: <not initialized> 
+(2026-05-15 23:01:56.5448) [Error]  
+(2026-05-15 23:01:56.5448) [Error] Could not create the schema
+	Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO)
+	Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Access denied for user 'root'@'localhost' (using password: NO)
+	Access denied for user 'root'@'localhost' (using password: NO) 
+(2026-05-15 23:01:56.5448) [Error] 
+
+Initialization Step failed - Do you want to repeat and continue (y) [or cancel startup (n)]? (y/n) 
+(2026-05-15 23:02:25.2425) [Error] Кто-то висит на 80м порту! ГГэму не запустить! 
+(2026-05-15 23:04:59.3718) [Error] Кто-то висит на 80м порту! ГГэму не запустить! 

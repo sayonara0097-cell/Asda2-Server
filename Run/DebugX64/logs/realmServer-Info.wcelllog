@@ -1,0 +1,159 @@
+(2026-05-15 23:01:55.5907) [Info] Initialization Pass #Config 
+(2026-05-15 23:01:55.8736) [Info] Step:  'Initialize Config' (00:00.281) 
+(2026-05-15 23:01:55.8736) [Info] Initialization Pass #First 
+(2026-05-15 23:01:55.8736) [Info] Step:  'Asda2 Security System' (00:00.01) 
+(2026-05-15 23:01:55.8736) [Info] No addons found. 
+(2026-05-15 23:01:55.8736) [Info] Step:  'Initialize Addons' (00:00.00) 
+(2026-05-15 23:02:02.5464) [Info] [Broadcast] Initiating Shutdown... 
+(2026-05-15 23:02:02.5464) [Info] [Broadcast] Halting server and saving World... 
+(2026-05-15 23:02:02.5464) [Info] [Broadcast] Saving guilds... 
+(2026-05-15 23:02:02.5464) [Info] [Broadcast] Saving auction... 
+(2026-05-15 23:02:02.5464) [Info] [Broadcast] Saving characters... 
+(2026-05-15 23:02:02.5555) [Info] [Broadcast] World saved. 
+(2026-05-15 23:02:02.5555) [Info] [Broadcast] Shutting down... 
+(2026-05-15 23:02:02.5555) [Info] Stopping the network layer! 
+(2026-05-15 23:02:02.5555) [Info] Server has been shutdown. 
+(2026-05-15 23:02:20.2429) [Info] Initialization Pass #Config 
+(2026-05-15 23:02:20.5258) [Info] Step:  'Initialize Config' (00:00.281) 
+(2026-05-15 23:02:20.5258) [Info] Initialization Pass #First 
+(2026-05-15 23:02:20.5258) [Info] Step:  'Asda2 Security System' (00:00.01) 
+(2026-05-15 23:02:20.5258) [Info] No addons found. 
+(2026-05-15 23:02:20.5258) [Info] Step:  'Initialize Addons' (00:00.01) 
+(2026-05-15 23:02:21.8809) [Info] Step:  'Initialize Spells' (00:01.349) 
+(2026-05-15 23:02:21.8929) [Info] Step:  'Items sets system.' (00:00.12) 
+(2026-05-15 23:02:21.8929) [Info] Step:  'Initialize database' (00:00.04) 
+(2026-05-15 23:02:21.8929) [Info] Initialization Pass #Second 
+(2026-05-15 23:02:21.9219) [Info] Step:  'Register packet handlers' (00:00.24) 
+(2026-05-15 23:02:21.9219) [Info] Step:  'Initialize Factions' (00:00.00) 
+(2026-05-15 23:02:21.9219) [Info] Initialization Pass #Third 
+(2026-05-15 23:02:21.9599) [Info] Step:  'Initialize Spells (2)' (00:00.39) 
+(2026-05-15 23:02:22.2319) [Info] Step:  'Initializing World' (00:00.261) 
+(2026-05-15 23:02:22.3099) [Info] Step:  'Pet system' (00:00.77) 
+(2026-05-15 23:02:22.3099) [Info] Initialization Pass #Fourth 
+(2026-05-15 23:02:22.3259) [Info] Step:  'Privilege manager' (00:00.16) 
+(2026-05-15 23:02:22.3259) [Info] Step:  'Initialize WorldSafeLocs' (00:00.00) 
+(2026-05-15 23:02:22.3379) [Info] Step:  'Caching Ban list...' (00:00.18) 
+(2026-05-15 23:02:24.1795) [Info] Step:  'Initialize Items' (00:01.834) 
+(2026-05-15 23:02:24.2035) [Info] Step:  'Initialize Commands' (00:00.24) 
+(2026-05-15 23:02:24.2035) [Info] Initialization Pass #Fifth 
+(2026-05-15 23:02:24.3035) [Info] Step:  'Initialize Guilds' (00:00.99) 
+(2026-05-15 23:02:24.3045) [Info] Step:  'Start relation manager' (00:00.00) 
+(2026-05-15 23:02:24.3305) [Info] Step:  'Initialize GameObjects' (00:00.26) 
+(2026-05-15 23:02:24.3375) [Info] Step:  'Create default channels' (00:00.07) 
+(2026-05-15 23:02:24.8645) [Info] Step:  'Initialize NPCs' (00:00.526) 
+(2026-05-15 23:02:24.8685) [Info] Step:  'Initialize Auctions' (00:00.05) 
+(2026-05-15 23:02:24.8845) [Info] Step:  'Initialize Instances' (00:00.14) 
+(2026-05-15 23:02:24.9315) [Info] Step:  'Initializing World' (00:00.58) 
+(2026-05-15 23:02:24.9455) [Info] Step:  'Initialize Accounts' (00:00.02) 
+(2026-05-15 23:02:24.9455) [Info] Step:  'Initialize Achievements' (00:00.05) 
+(2026-05-15 23:02:24.9455) [Info] Initialization Pass #Sixth 
+(2026-05-15 23:02:24.9455) [Info] Initialization Pass #Seventh 
+(2026-05-15 23:02:24.9455) [Info] Step:  'Initializing Races and Classes' (00:00.04) 
+(2026-05-15 23:02:24.9455) [Info] Initialization Pass #Tenth 
+(2026-05-15 23:02:24.9685) [Info] Step:  'Initialize Soulmates' (00:00.09) 
+(2026-05-15 23:02:25.0975) [Info] Step:  'Load Loot' (00:00.128) 
+(2026-05-15 23:02:25.1155) [Info] Step:  'Asda2 title system.' (00:00.17) 
+(2026-05-15 23:02:25.1165) [Info] Step:  'Style shop.' (00:00.13) 
+(2026-05-15 23:02:25.1515) [Info] Step:  'Fishing system.' (00:00.23) 
+(2026-05-15 23:02:25.1515) [Info] Step:  'Asda2 battleground system.' (00:00.10) 
+(2026-05-15 23:02:25.1735) [Info] Step:  'Auction System' (00:00.11) 
+(2026-05-15 23:02:25.1795) [Info] Step:  'Craft' (00:00.06) 
+(2026-05-15 23:02:25.2155) [Info] Step:  'Asda2 Guild Wave System' (00:00.36) 
+(2026-05-15 23:02:25.2155) [Info] Step:  'Digging system.' (00:00.03) 
+(2026-05-15 23:02:25.2155) [Info] Initialization Pass #Last 
+(2026-05-15 23:02:25.2425) [Info] Step:  'GG Emu started.' (00:00.36) 
+(2026-05-15 23:02:25.2685) [Info] Step:  'PerLevelBonuses' (00:00.07) 
+(2026-05-15 23:02:25.2725) [Info] Step:  'Mount system' (00:00.03) 
+(2026-05-15 23:02:25.6895) [Info] Step:  'Logging system' (00:00.417) 
+(2026-05-15 23:02:25.6895) [Info] Step:  'Teleport manager.' (00:00.00) 
+(2026-05-15 23:02:25.6895) [Info] Initialization complete! 54 successful steps, 0 non-fatal failures. 
+(2026-05-15 23:02:25.6895) [Info] Starting the network layer! 
+(2026-05-15 23:02:25.6945) [Info] Listening to TCP socket on 127.0.0.1:5000 
+(2026-05-15 23:02:25.6945) [Info] Server is ready for connections! 
+(2026-05-15 23:02:25.6945) [Info] Server started - Max Working Set Size: 1413120 
+(2026-05-15 23:02:25.7135) [Info] IPC service started on net.tcp://127.0.0.1:7470/ 
+(2026-05-15 23:02:27.2279) [Info] [Broadcast] Initiating Shutdown... 
+(2026-05-15 23:02:27.2279) [Info] [Broadcast] Halting server and saving World... 
+(2026-05-15 23:02:27.2279) [Info] [Broadcast] Saving guilds... 
+(2026-05-15 23:02:27.2279) [Info] [Broadcast] Saving auction... 
+(2026-05-15 23:02:27.2279) [Info] [Broadcast] Saving characters... 
+(2026-05-15 23:02:27.2279) [Info] [Broadcast] World saved. 
+(2026-05-15 23:02:27.2279) [Info] [Broadcast] Shutting down... 
+(2026-05-15 23:02:27.2419) [Info] Stopping the network layer! 
+(2026-05-15 23:02:27.2419) [Info] Server has been shutdown. 
+(2026-05-15 23:02:27.2419) [Info] Server is no longer accepting connections! 
+(2026-05-15 23:04:54.1648) [Info] Initialization Pass #Config 
+(2026-05-15 23:04:54.4421) [Info] Step:  'Initialize Config' (00:00.277) 
+(2026-05-15 23:04:54.4421) [Info] Initialization Pass #First 
+(2026-05-15 23:04:54.4421) [Info] Step:  'Asda2 Security System' (00:00.00) 
+(2026-05-15 23:04:54.4442) [Info] No addons found. 
+(2026-05-15 23:04:54.4442) [Info] Step:  'Initialize Addons' (00:00.02) 
+(2026-05-15 23:04:55.8098) [Info] Step:  'Initialize Spells' (00:01.363) 
+(2026-05-15 23:04:55.8198) [Info] Step:  'Items sets system.' (00:00.11) 
+(2026-05-15 23:04:55.8198) [Info] Step:  'Initialize database' (00:00.05) 
+(2026-05-15 23:04:55.8198) [Info] Initialization Pass #Second 
+(2026-05-15 23:04:55.8518) [Info] Step:  'Register packet handlers' (00:00.24) 
+(2026-05-15 23:04:55.8518) [Info] Step:  'Initialize Factions' (00:00.00) 
+(2026-05-15 23:04:55.8518) [Info] Initialization Pass #Third 
+(2026-05-15 23:04:55.8998) [Info] Step:  'Initialize Spells (2)' (00:00.38) 
+(2026-05-15 23:04:56.1608) [Info] Step:  'Initializing World' (00:00.261) 
+(2026-05-15 23:04:56.2418) [Info] Step:  'Pet system' (00:00.80) 
+(2026-05-15 23:04:56.2418) [Info] Initialization Pass #Fourth 
+(2026-05-15 23:04:56.2568) [Info] Step:  'Privilege manager' (00:00.16) 
+(2026-05-15 23:04:56.2568) [Info] Step:  'Initialize WorldSafeLocs' (00:00.00) 
+(2026-05-15 23:04:56.2768) [Info] Step:  'Caching Ban list...' (00:00.18) 
+(2026-05-15 23:04:58.2048) [Info] Step:  'Initialize Items' (00:01.928) 
+(2026-05-15 23:04:58.2268) [Info] Step:  'Initialize Commands' (00:00.24) 
+(2026-05-15 23:04:58.2268) [Info] Initialization Pass #Fifth 
+(2026-05-15 23:04:58.3378) [Info] Step:  'Initialize Guilds' (00:00.108) 
+(2026-05-15 23:04:58.3378) [Info] Step:  'Start relation manager' (00:00.02) 
+(2026-05-15 23:04:58.3668) [Info] Step:  'Initialize GameObjects' (00:00.27) 
+(2026-05-15 23:04:58.3668) [Info] Step:  'Create default channels' (00:00.05) 
+(2026-05-15 23:04:58.9188) [Info] Step:  'Initialize NPCs' (00:00.546) 
+(2026-05-15 23:04:58.9188) [Info] Step:  'Initialize Auctions' (00:00.05) 
+(2026-05-15 23:04:58.9308) [Info] Step:  'Initialize Instances' (00:00.15) 
+(2026-05-15 23:04:58.9938) [Info] Step:  'Initializing World' (00:00.58) 
+(2026-05-15 23:04:58.9938) [Info] Step:  'Initialize Accounts' (00:00.03) 
+(2026-05-15 23:04:59.0078) [Info] Step:  'Initialize Achievements' (00:00.05) 
+(2026-05-15 23:04:59.0078) [Info] Initialization Pass #Sixth 
+(2026-05-15 23:04:59.0078) [Info] Initialization Pass #Seventh 
+(2026-05-15 23:04:59.0078) [Info] Step:  'Initializing Races and Classes' (00:00.04) 
+(2026-05-15 23:04:59.0078) [Info] Initialization Pass #Tenth 
+(2026-05-15 23:04:59.0268) [Info] Step:  'Initialize Soulmates' (00:00.08) 
+(2026-05-15 23:04:59.2028) [Info] Step:  'Load Loot' (00:00.175) 
+(2026-05-15 23:04:59.2218) [Info] Step:  'Asda2 title system.' (00:00.19) 
+(2026-05-15 23:04:59.2418) [Info] Step:  'Style shop.' (00:00.20) 
+(2026-05-15 23:04:59.2628) [Info] Step:  'Fishing system.' (00:00.20) 
+(2026-05-15 23:04:59.2758) [Info] Step:  'Asda2 battleground system.' (00:00.13) 
+(2026-05-15 23:04:59.2758) [Info] Step:  'Auction System' (00:00.12) 
+(2026-05-15 23:04:59.2888) [Info] Step:  'Craft' (00:00.05) 
+(2026-05-15 23:04:59.3308) [Info] Step:  'Asda2 Guild Wave System' (00:00.36) 
+(2026-05-15 23:04:59.3378) [Info] Step:  'Digging system.' (00:00.07) 
+(2026-05-15 23:04:59.3378) [Info] Initialization Pass #Last 
+(2026-05-15 23:04:59.3718) [Info] Step:  'GG Emu started.' (00:00.34) 
+(2026-05-15 23:04:59.3848) [Info] Step:  'PerLevelBonuses' (00:00.07) 
+(2026-05-15 23:04:59.3848) [Info] Step:  'Mount system' (00:00.04) 
+(2026-05-15 23:04:59.8398) [Info] Step:  'Logging system' (00:00.449) 
+(2026-05-15 23:04:59.8398) [Info] Step:  'Teleport manager.' (00:00.00) 
+(2026-05-15 23:04:59.8398) [Info] Initialization complete! 54 successful steps, 0 non-fatal failures. 
+(2026-05-15 23:04:59.8398) [Info] Starting the network layer! 
+(2026-05-15 23:04:59.8398) [Info] Listening to TCP socket on 127.0.0.1:5000 
+(2026-05-15 23:04:59.8398) [Info] Server is ready for connections! 
+(2026-05-15 23:04:59.8398) [Info] Server started - Max Working Set Size: 1413120 
+(2026-05-15 23:04:59.8668) [Info] IPC service started on net.tcp://127.0.0.1:7470/ 
+(2026-05-15 23:05:06.1631) [Info] (127.0.0.1 - Account: ) -> Connected 
+(2026-05-15 23:05:08.2377) [Info] Account "1" logged in from 127.0.0.1. 
+(2026-05-15 23:05:17.1966) [Info] (127.0.0.1 - Account: 1 - Char: Testing) -> Disconnected 
+(2026-05-15 23:05:17.2990) [Info] (127.0.0.1 - Account: ) -> Connected 
+(2026-05-15 23:05:22.0433) [Info] (127.0.0.1 - Account: 1 - Char: Testing) -> Disconnected 
+(2026-05-15 23:05:39.1979) [Info] (127.0.0.1 - Account:  - Char: Testing) -> Disconnected 
+(2026-05-15 23:05:43.9514) [Info] [Broadcast] Initiating Shutdown... 
+(2026-05-15 23:05:43.9514) [Info] [Broadcast] Halting server and saving World... 
+(2026-05-15 23:05:43.9514) [Info] [Broadcast] Saving guilds... 
+(2026-05-15 23:05:43.9514) [Info] [Broadcast] Saving auction... 
+(2026-05-15 23:05:43.9514) [Info] [Broadcast] Saving characters... 
+(2026-05-15 23:05:43.9614) [Info] [Broadcast] World saved. 
+(2026-05-15 23:05:43.9614) [Info] [Broadcast] Shutting down... 
+(2026-05-15 23:05:43.9614) [Info] Stopping the network layer! 
+(2026-05-15 23:05:43.9614) [Info] Server has been shutdown. 
+(2026-05-15 23:05:43.9614) [Info] Server is no longer accepting connections! 

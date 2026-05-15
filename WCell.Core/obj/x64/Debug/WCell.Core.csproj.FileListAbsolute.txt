@@ -1,0 +1,77 @@
+C:\Users\NoN\Desktop\Asda2_Server\Run\DebugX64\WCell.Core.dll
+C:\Users\NoN\Desktop\Asda2_Server\Run\DebugX64\WCell.Core.pdb
+C:\Users\NoN\Desktop\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csprojAssemblyReference.cache
+C:\Users\NoN\Desktop\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.Localization.WCell.Core.resources
+C:\Users\NoN\Desktop\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.GenerateResource.cache
+C:\Users\NoN\Desktop\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.CoreCompileInputs.cache
+C:\Users\NoN\Desktop\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.CopyComplete
+C:\Users\NoN\Desktop\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.dll
+C:\Users\NoN\Desktop\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.pdb
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csprojAssemblyReference.cache
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.Localization.WCell.Core.resources
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.GenerateResource.cache
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.CoreCompileInputs.cache
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.dll
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.pdb
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\Run\DebugX64\WCell.Core.dll
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\Run\DebugX64\WCell.Core.pdb
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.CopyComplete
+E:\Asda Development\Asda2\Asda2_Server\Run\DebugX64\WCell.Core.dll
+E:\Asda Development\Asda2\Asda2_Server\Run\DebugX64\WCell.Core.pdb
+E:\Asda Development\Asda2\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.AssemblyReference.cache
+E:\Asda Development\Asda2\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.Localization.WCell.Core.resources
+E:\Asda Development\Asda2\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.GenerateResource.cache
+E:\Asda Development\Asda2\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.CoreCompileInputs.cache
+E:\Asda Development\Asda2\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.csproj.CopyComplete
+E:\Asda Development\Asda2\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.dll
+E:\Asda Development\Asda2\Asda2_Server\WCell.Core\obj\x64\Debug\WCell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\DebugX64\WCell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\DebugX64\WCell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.csproj.AssemblyReference.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.Localization.WCell.Core.resources
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.csproj.GenerateResource.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.csproj.Up2Date
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.pdb
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\Run\DebugX64\WCell.Core.dll
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\Run\DebugX64\WCell.Core.pdb
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.csproj.AssemblyReference.cache
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.Localization.WCell.Core.resources
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.csproj.GenerateResource.cache
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.csproj.CoreCompileInputs.cache
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.csproj.Up2Date
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.dll
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.Core\obj\x64\Debug\WCell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\WCell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\WCell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\WCell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\WCell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\Castle.ActiveRecord.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\Cell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\ICSharpCode.SharpZipLib.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\NHibernate.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\NLog.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\WCell.Constants.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\WCell.Intercommunication.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\WCell.Util.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\Castle.Components.Validator.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\Iesi.Collections.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\Castle.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\NHibernate.ByteCode.Castle.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\Antlr3.Runtime.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\Remotion.Data.Linq.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\Cell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\WCell.Constants.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\WCell.Intercommunication.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.Core\BuildCheck\WCell.Util.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\DebugX64\WCell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\DebugX64\WCell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\WarningsX64\WCell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\WarningsX64\WCell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\_build_verify\WCell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\_build_verify\WCell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\TempVerify\WCell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\TempVerify\WCell.Core.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\NotifyFixDebug\WCell.Core.dll
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\NotifyFixDebug\WCell.Core.pdb

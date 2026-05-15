@@ -1,0 +1,40 @@
+C:\Users\NoN\Desktop\Asda2_Server\Run\DebugX64\WCell.RealmServerConsole.exe
+C:\Users\NoN\Desktop\Asda2_Server\Run\DebugX64\WCell.RealmServerConsole.pdb
+C:\Users\NoN\Desktop\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.CoreCompileInputs.cache
+C:\Users\NoN\Desktop\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.CopyComplete
+C:\Users\NoN\Desktop\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.exe
+C:\Users\NoN\Desktop\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.pdb
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\Run\DebugX64\WCell.RealmServerConsole.exe
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\Run\DebugX64\WCell.RealmServerConsole.pdb
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.CoreCompileInputs.cache
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.CopyComplete
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.exe
+C:\ttweer asda2\Asda2_Server\tahadi server\Asda2_Server_Tahadi_Bin32bit\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.pdb
+E:\Asda Development\Asda2\Asda2_Server\Run\DebugX64\WCell.RealmServerConsole.exe.config
+E:\Asda Development\Asda2\Asda2_Server\Run\DebugX64\WCell.RealmServerConsole.exe
+E:\Asda Development\Asda2\Asda2_Server\Run\DebugX64\WCell.RealmServerConsole.pdb
+E:\Asda Development\Asda2\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.AssemblyReference.cache
+E:\Asda Development\Asda2\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.SuggestedBindingRedirects.cache
+E:\Asda Development\Asda2\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.CoreCompileInputs.cache
+E:\Asda Development\Asda2\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.CopyComplete
+E:\Asda Development\Asda2\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.exe
+E:\Asda Development\Asda2\Asda2_Server\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\DebugX64\WCell.RealmServerConsole.exe.config
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\DebugX64\WCell.RealmServerConsole.exe
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\Run\DebugX64\WCell.RealmServerConsole.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.AssemblyReference.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.CoreCompileInputs.cache
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.Re.EEDA2861.Up2Date
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.exe
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.pdb
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\Run\DebugX64\WCell.RealmServerConsole.exe.config
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\Run\DebugX64\WCell.RealmServerConsole.exe
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\Run\DebugX64\WCell.RealmServerConsole.pdb
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.AssemblyReference.cache
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.csproj.CoreCompileInputs.cache
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.Re.EEDA2861.Up2Date
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.exe
+D:\AsdaStory Main Servers\Private\Asda2 - New Source\WCell.RealmServerConsole\obj\x64\Debug\WCell.RealmServerConsole.pdb
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\WarningsX64\WCell.RealmServerConsole.exe.config
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\WarningsX64\WCell.RealmServerConsole.exe
+C:\Users\Khaled Malallah\Desktop\Asda2 - Latest\Asda2 - New Source\BuildCheck\WarningsX64\WCell.RealmServerConsole.pdb
