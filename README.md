@@ -1,16 +1,16 @@
-## Disclaimer
+## Repository Purpose
 
-This repository is provided strictly for educational, research, interoperability, and software analysis purposes only.
+The main purpose of this project is to:
 
-This project is not affiliated with, endorsed by, sponsored by, or connected to the original game developers, publishers, or intellectual property owners.
-
-No proprietary game assets, official client files, copyrighted media, or commercially protected resources are included in this repository.
-
-The contributors do not support or encourage piracy, copyright infringement, unauthorized distribution, commercial exploitation, or abuse of official online services.
-
-All trademarks, game names, logos, characters, and related intellectual property remain the property of their respective owners.
-
-Users are solely responsible for complying with applicable laws, software licenses, terms of service, and intellectual property regulations within their jurisdiction.
+- Study legacy multiplayer game systems
+- Preserve technical knowledge
+- Understand networking workflows
+- Learn gameplay synchronization techniques
+- Analyze packet handling systems
+- Research historical MMORPG architectures
+- Explore software interoperability concepts
+- Improve reverse engineering knowledge
+- Study distributed game systems
 
 ## Systems Implemented / Researched
 
@@ -41,3 +41,43 @@ Approximate implementation/research status:
 
 > Percentages are approximate and represent the current **Implemented / Researched** status of each system.  
 > They do not represent full production readiness.
+
+## Research Notes
+
+This repository may contain:
+
+- Incomplete systems
+- Experimental implementations
+- Debugging utilities
+- Reverse-engineered structures
+- Placeholder implementations
+- Unverified packet handlers
+- Research prototypes
+- Legacy architecture experiments
+
+The codebase is intended as a learning and research platform rather than a production-ready service.
+
+No guarantee is provided regarding:
+
+- Stability
+- Accuracy
+- Security
+- Compatibility
+- Reliability
+- Fitness for production usage
+
+Use at your own risk.
+
+## Disclaimer
+
+This repository is provided strictly for educational, research, interoperability, and software analysis purposes only.
+
+This project is not affiliated with, endorsed by, sponsored by, or connected to the original game developers, publishers, or intellectual property owners.
+
+No proprietary game assets, official client files, copyrighted media, or commercially protected resources are included in this repository.
+
+The contributors do not support or encourage piracy, copyright infringement, unauthorized distribution, commercial exploitation, or abuse of official online services.
+
+All trademarks, game names, logos, characters, and related intellectual property remain the property of their respective owners.
+
+Users are solely responsible for complying with applicable laws, software licenses, terms of service, and intellectual property regulations within their jurisdiction.
